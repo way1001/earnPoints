@@ -1,0 +1,12 @@
+{
+  "/eps": {
+    "target": "https://dev.aiforest.net",
+    "secure": false,
+    "changeOrigin": true
+  },
+  "/ep": {
+    "target": "http://localhost:9999",
+    "secure": false,
+    "changeOrigin": true
+  }
+}
