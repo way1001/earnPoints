@@ -1,0 +1,2 @@
+# earnPoints
+ionic mp
